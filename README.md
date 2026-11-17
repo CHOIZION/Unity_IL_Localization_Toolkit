@@ -297,8 +297,3 @@ bin\AssemblyPatcher.exe "C:\Steam\steamapps\common\MyGame\game_Data\Managed" "bi
 - [한글 유니코드 음절 분해 수학 공식 백서 (docs/KOREAN_PARTICLE_MATH.md)](docs/KOREAN_PARTICLE_MATH.md)
 
 ---
-
-## 📜 라이선스 (License)
-
-본 프레임워크는 **[MIT License](LICENSE)** 하에 자유롭게 배포 및 수정할 수 있습니다.  
-다른 해외 인디 게임의 비공식 한글화, 게임 엔진 리버스 엔지니어링 연구, 동적 모딩 프레임워크 개발에 자유롭게 활용해 보세요!
