@@ -1,0 +1,15 @@
+# ==============================================================================
+# Sample TSV Translation Dictionary
+# Format: <Original_English_Text>\t<Korean_Translation>
+# ==============================================================================
+New Game	새 게임
+Continue	이어하기
+Options	설정
+Exit	종료
+Start Journey	기행 시작
+Inventory	인벤토리
+Equipment	장비
+Save Game	게임 저장
+Load Game	불러오기
+Are you sure you want to quit?	정말 종료하시겠습니까?
+Press Space to continue	계속하려면 스페이스바를 누르세요
